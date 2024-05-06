@@ -22,7 +22,7 @@ Markdown Cheatsheet<a name="TOP"></a>
   * 예약시스템 관련된 주제 선정 후 앱 버전으로 UI/UX 리디자인
   * 팀원들과의 원활한 소통 및 일관된 디자인
 
-주제 : [아트보다 갤러리](https://www.artbodagallery.com/,"아트보다 갤러리 바로가기")
+주제 : [아트보다 갤러리](https://www.artbodagallery.com, "아트보다 갤러리 바로가기")
 
 자료 조사
   * 선정 이유 및 웹 사이트 분석
