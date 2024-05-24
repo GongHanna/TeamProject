@@ -4,12 +4,34 @@ Markdown Cheatsheet<a name="TOP"></a>
 - - - - 
 # 💻웹 사이트 구현💻 #
 
-    Markup :  # Heading 1 #
+팀 명 : 아이삼
 
-    -OR-
+팀 원 : 공한나, 김나은, 안서희
 
-    Markup :  ============= (below H1 text)
+팀 리더 : 안서희
+
+기술 리더 : 공한나
+
+Github Organization 관리자 : 김나은
+
+목표
+  * 학습한 내용을 토대로 웹 사이트를 구현하며 퍼블리싱에 대한 이해도 및 숙련도 향상
+  * 팀 프로젝트를 통한 협업 능력 강화
+  * javaScirpt, jQuery를 이용한 고난도 반응형 웹 사이트 구현
+
+주제 : [릴리바이레드](https://lilybyred.co.kr/, "릴리바이레드 바로가기")
+
+작업 시 사용된 디자인 툴 : 피그마, Visual Studio Code
+
+문서 및 버전 : HTML5, CSS3, JavaScript, jQuery, JSON
+
+👇🏻작업물 보러가기👇🏻
+  1. [와이어프레임 / 디자인 / 코드 분석](https://www.figma.com/design/nZuJkylg8zLALpf4awGKyL/%EC%95%84%EC%9D%B4%EC%82%BC-%2F-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1&t=X5XWHso5WpewFfzx-1, "피그마로 바로가기")
+  2. [반응형 웹 사이트 - 릴리바이레드](https://javascript-team-project.github.io/javaScriptTeamProject/, "릴리바이레드 바로가기")
+  3. [Github Organization](https://github.com/javascript-team-project/javaScriptTeamProject, "Github Organization 바로가기")
+
 - - - - 
+
 # 🎨UI/UX 리디자인🎨 #
 
 팀 명 : 네잎클로버
