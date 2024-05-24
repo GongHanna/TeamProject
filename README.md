@@ -1,7 +1,6 @@
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
-- - - - 
 # 💻웹 사이트 구현💻 #
 
 팀 명 : 아이삼
@@ -30,7 +29,6 @@ Github Organization 관리자 : 김나은
   2. [반응형 웹 사이트 - 릴리바이레드](https://javascript-team-project.github.io/javaScriptTeamProject/, "릴리바이레드 바로가기")
   3. [Github Organization](https://github.com/javascript-team-project/javaScriptTeamProject, "Github Organization 바로가기")
 
-- - - - 
 
 # 🎨UI/UX 리디자인🎨 #
 
