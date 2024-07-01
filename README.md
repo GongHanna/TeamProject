@@ -1,5 +1,3 @@
-
-
 # 💻웹 사이트 구현💻 #
 
 팀 명 : 아이삼
@@ -19,7 +17,7 @@ Github Organization 관리자 : 김나은
 
 주제 : [릴리바이레드](https://lilybyred.co.kr/, "릴리바이레드 바로가기")
 
-작업 시 사용된 디자인 툴 : 피그마, Visual Studio Code
+작업 시 사용된 디자인 툴 : Figma, Visual Studio Code
 
 문서 및 버전 : HTML5, CSS3, JavaScript, jQuery, JSON
 
